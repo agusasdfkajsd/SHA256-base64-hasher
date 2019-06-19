@@ -1,0 +1,12 @@
+C:\Users\agusa\Desktop\Hasheador\Hasheador\bin\Debug\Hasheador.exe.config
+C:\Users\agusa\Desktop\Hasheador\Hasheador\bin\Debug\Hasheador.exe
+C:\Users\agusa\Desktop\Hasheador\Hasheador\bin\Debug\Hasheador.pdb
+C:\Users\agusa\Desktop\Hasheador\Hasheador\bin\Debug\Hasheador.xml
+C:\Users\agusa\Desktop\Hasheador\Hasheador\obj\Debug\Hasheador.vbprojAssemblyReference.cache
+C:\Users\agusa\Desktop\Hasheador\Hasheador\obj\Debug\Hasheador.Form1.resources
+C:\Users\agusa\Desktop\Hasheador\Hasheador\obj\Debug\Hasheador.Resources.resources
+C:\Users\agusa\Desktop\Hasheador\Hasheador\obj\Debug\Hasheador.vbproj.GenerateResource.cache
+C:\Users\agusa\Desktop\Hasheador\Hasheador\obj\Debug\Hasheador.vbproj.CoreCompileInputs.cache
+C:\Users\agusa\Desktop\Hasheador\Hasheador\obj\Debug\Hasheador.exe
+C:\Users\agusa\Desktop\Hasheador\Hasheador\obj\Debug\Hasheador.xml
+C:\Users\agusa\Desktop\Hasheador\Hasheador\obj\Debug\Hasheador.pdb
