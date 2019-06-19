@@ -28,6 +28,7 @@ Partial Class Form1
         Me.output = New System.Windows.Forms.TextBox()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.info = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'encript
@@ -93,11 +94,21 @@ Partial Class Form1
         Me.info.TabIndex = 5
         Me.info.Text = "SHA256, b64 hasher - Agustín Perez"
         '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Location = New System.Drawing.Point(13, 69)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(323, 13)
+        Me.Label3.TabIndex = 6
+        Me.Label3.Text = "Debido al algoritmo, el largo de la cadena es siempre 44 caracteres"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(528, 118)
+        Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.info)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.output)
@@ -119,4 +130,5 @@ Partial Class Form1
     Friend WithEvents output As TextBox
     Friend WithEvents Label2 As Label
     Friend WithEvents info As Label
+    Friend WithEvents Label3 As Label
 End Class
